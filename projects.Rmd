@@ -1,0 +1,10 @@
+---
+title: "My Projects"
+---
+### [Offensive & Defensive Dynamics in Basketball](https://github.com/ashleycclark/midterm)
+
+A github repository for a previous Data Science Certificate program requirement. This analysis is on the offense-defense dynamics in the National Basketball Association and further explores the interactions between offensive and defensive performance in game.
+
+### [Personal Website Project](https://github.com/ashleycclark/personal_website)
+
+A github repository for a Current Topics to Data Science course project. This github repository holds the key data components necessary to produce my personal website. 

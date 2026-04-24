@@ -1,9 +1,25 @@
-name: "my-website"
+name: "personal website"
+output_dir: "docs"
+output:
+  html_document:
+    theme: lumen
+    css: styles.css
+    includes:
+      in_header: header.html
 navbar:
-  title: "My Website"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-output_dir: docs
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: About
+    href: about.html
+    icon: fa-book-open
+  - text: Projects 
+    href: projects.html
+    icon: fa-computer
+  - text: Resume
+    href: files/Clark_Ashley_Resume26.pdf
+    icon: fa-paperclip
+  right:
+  - href: https://www.linkedin.com/in/ashley-c-6265151a1/
+    icon: fa-linkedin

@@ -1,5 +1,11 @@
 ---
-title: "About This Website"
+title: "About Me!"
 ---
 
-More about this website.
+I’m a public health graduate student and data analyst with a strong interest in health policy, health equity, and consulting. I’m drawn to work that sits at the intersection of data, strategy, and real-world impact, using analytical tools to uncover insights and help organizations make more informed, equitable decisions.
+
+My experience includes working with large datasets, translating complex findings into clear and actionable recommendations, and approaching problems with both structure and curiosity. I’m particularly interested in consulting because it allows me to think critically across diverse challenges, develop strategic solutions, and contribute to meaningful change at both the systems and community level.
+
+I’m passionate about addressing disparities in underserved populations and ensuring that data-driven solutions are not only evidence-based, but also practical and sustainable. Outside of my academic and professional work, I have a strong interest in wellness and lifestyle, and I value growth, discipline, and intentionality in everything I do.
+
+I’m always open to opportunities to learn, collaborate, and apply my skills in dynamic, impact-driven environments. 
